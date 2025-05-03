@@ -32,7 +32,7 @@
     }
   },
   "files": [
-    "dist"
+    "dist", "src", "package.json", "README.md", "LICENSE", "tsconfig.*"
   ],
   "scripts": {
     "build": "npm run build:esm && npm run build:cjs",
